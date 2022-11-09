@@ -1,3 +1,9 @@
-2022 Spring SYSU 3D Game Design Course Source Code.
+2022 Autumn SYSU 3D Game Design Course Source Code.
 Student Name: Hu Haoxuan
 Student ID: 20302037
+
+How to use my code?
+  First : Create a new project in Unity
+  Second : Download and import Assets file into Unity.
+  Third : replace original camera in the scene with Assets/Scenes/MainCamera.prefab
+  Last: Run the project.
