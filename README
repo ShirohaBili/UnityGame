@@ -5,3 +5,5 @@ How to use my code?
   Second : Download and import Assets file into Unity.
   Third : replace original camera in the scene with Assets/Scenes/MainCamera.prefab
   Last: Run the project.
+
+##Notice: You should download source code from master branch!
